@@ -1,0 +1,15 @@
+.primaryNavRow{
+    box-shadow: rgba(0, 0, 0, 0.5) 0px -2px 6px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .primaryNav{
+    min-height: 55px!important;
+    height: 55px;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+  }
+  .dct-logo{
+    height: 25px;
+  }
